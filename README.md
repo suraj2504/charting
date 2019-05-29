@@ -9,6 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. Navigate to the folder
 4. Run npm install
 5. Run ng serve
+6. Open browser with `http://localhost:4200/` and use series.csv for upload which is available inside the charting folder.
 
 ## Development server
 
